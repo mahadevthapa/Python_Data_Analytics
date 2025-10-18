@@ -103,7 +103,7 @@ This project answers key questions:
 
 ## ✅ Conclusion
 
-This project provided valuable insight into the evolving U.S. data job market. It emphasized the need to balance **foundational skills** like SQL and Excel with **high-paying specialized tools** like GitLab and Oracle. This analysis is a useful roadmap for anyone aiming to make strategic, data-driven decisions in their data analytics career.
+This project provided valuable insight into the evolving U.S. data job market. It emphasized the need to balance **foundational skills** like SQL, Python and Excel with **high-paying specialized tools** like GitLab and Oracle. This analysis is a useful roadmap for anyone aiming to make strategic, data-driven decisions in their data analytics career.
 
 ---
 
