@@ -11,7 +11,7 @@ The goal is to guide aspiring and current data professionals in understanding wh
 This project answers key questions:
 
 - 🔍 What are the most in-demand skills for the top 3 data roles?
-- 📈 How are those skills trending in 2025 for Data Analysts?
+- 📈 How are those skills trending in 2023 for Data Analysts?
 - 💰 Which skills and roles offer the highest salaries?
 - 🎯 What are the **most optimal skills** (high demand + high salary) for Data Analysts?
 
@@ -52,7 +52,7 @@ This project answers key questions:
 
 ### 🔹 Most Demanded Skills for Top Data Roles
 
-![Top Skills by Role](images/Likelihood_of_Skills_Requested_in_US_Job_Postings.png)
+![Top Skills by Role](images/one.png)
 
 > SQL and Python are consistently the most in-demand across Data Analyst, Data Scientist, and Data Engineer roles.
 
@@ -60,7 +60,7 @@ This project answers key questions:
 
 ### 🔹 Skill Trends in 2023 for Data Analysts
 
-![Skill Trends](images/one.png)
+![Skill Trends](images/two.png)
 
 > Excel surged in demand later in 2023, surpassing Python and Tableau.
 
@@ -68,7 +68,7 @@ This project answers key questions:
 
 ### 🔹 Salary Distributions by Role
 
-![Salary Distributions](images/two.png)
+![Salary Distributions](images/three.png)
 
 > Senior roles have wider salary ranges and higher median pay.
 
@@ -76,7 +76,7 @@ This project answers key questions:
 
 ### 🔹 Top Paid vs Most Demanded Skills for Data Analysts
 
-![High Pay & Demand Skills](images/three.png)
+![High Pay & Demand Skills](images/four.png)
 
 > Tools like `Gitlab`, `dplyr`, and `Oracle` are high-paying, while Excel, SQL, and PowerPoint are most in-demand.
 
@@ -84,17 +84,9 @@ This project answers key questions:
 
 ### 🔹 Optimal Skills to Learn (High Pay + High Demand)
 
-![Optimal Skills](images/four.png)
+![Optimal Skills](images/five.png)
 
 > Skills like Python, Tableau, and SQL Server strike a good balance between demand and compensation.
-
----
-
-### 🔹 Skills Categorized by Technology
-
-![Colored by Tech](images/five.png)
-
-> Programming and database skills dominate the high salary zone. Visualization tools are widely in demand.
 
 ---
 
